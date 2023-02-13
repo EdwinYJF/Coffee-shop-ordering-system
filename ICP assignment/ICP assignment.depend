@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669871238 source:c:\users\60111\onedrive\desktop\introduction to c programming assignment\icp assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+

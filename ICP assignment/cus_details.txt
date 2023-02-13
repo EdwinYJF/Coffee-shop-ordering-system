@@ -1,0 +1,6 @@
+DT001 Ang_Xu_Tian Bukit_Indah angxutian@gmail.com 012-3953363 Male 26/05/2002 haha 1234
+DT002 Yong_Jun_Fai Bukit_Indah yongjunfai@gmail.com 011-16234326 Male 26/05/2002 jf123 123
+DT003 Yong_Jun_Onn Bukit_Indah yongjunonn@gmail.com 017-2149623 Male 7/11/2005 Yurei 0123953383
+DT004 Lo_Sau_Kang bukit_jalil saukang@gmail.com 012345678 Male 4/11/2003 Saukang123 Saukang&123
+DT005 Benjamin_Han_Jia_Shen cheras benjaminhan@gmail.com 011-16234326 Male 2312313213 BenjaminHan Yong@123
+DT006 Yong_Shao_Long Bukit_Jalil yongshaolong@gmail.com 0123589061 Male 23/08/2000 shaolong123 #Shaolong123

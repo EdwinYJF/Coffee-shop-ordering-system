@@ -1,0 +1,11 @@
+B001 Espresso 9.00
+B002 Double_Espresso 15.00
+B003 Cappucinno 12.00
+B004 Latte 12.00
+B005 Americano 10.00
+B006 Mocha 12.00
+B007 Flat_White 9.00
+B008 Short_Black 9.00
+B009 Long_Black 9.00
+B010 Hot_Chocolate 8.00
+B011 Orange_Juice 6.00

@@ -1,0 +1,16 @@
+F001 Croissant 5.00
+F002 Sandwich 5.00
+F003 Veggie_Toast 10.00
+F004 French_Toast 7.00
+F005 Bagel 5.00
+F006 Ice_cream 4.00
+F007 Apple_pie 6.00
+F008 Cheese_cake 10.00
+F009 Fruit_tart 8.00
+F010 Cinna_roll 10.00
+F011 Nasi_Lemak 12.00
+F012 Waffle 5.00
+F013 Fish_and_Chips 13.00
+F014 Maggie_noodle 7.00
+F015 Haha 12.00
+F016 Test_2 3.00
